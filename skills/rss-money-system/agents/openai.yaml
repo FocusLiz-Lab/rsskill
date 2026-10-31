@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ramit Sethi · 个人财务流程"
+  short_description: "Build a 个人财务流程 using expert methodology"
+  default_prompt: "Use $rss-money-system to build a practical 个人财务流程 for my situation."

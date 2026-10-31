@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ramit Sethi · 职业与薪酬谈判"
+  short_description: "Build a 职业与薪酬谈判 using expert methodology"
+  default_prompt: "Use $rss-career to build a practical 职业与薪酬谈判 for my situation."

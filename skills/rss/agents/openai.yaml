@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ramit Sethi工具箱"
+  short_description: "Ramit Sethi expert workflow router"
+  default_prompt: "Use $rss to route and solve my 富足生活与金钱行为 problem."

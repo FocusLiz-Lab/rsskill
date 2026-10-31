@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ramit Sethi IMA Bridge"
+  short_description: "Retrieve IMA evidence for expert workflows"
+  default_prompt: "Use $rss-ima to retrieve IMA evidence and continue with the right Ramit Sethi workflow."

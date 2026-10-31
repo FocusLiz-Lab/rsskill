@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ramit Sethi · 学习地图"
+  short_description: "Build a 学习地图 using expert methodology"
+  default_prompt: "Use $rss-learning-map to build a practical 学习地图 for my situation."

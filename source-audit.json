@@ -1,0 +1,246 @@
+{
+  "prefix": "rss",
+  "repository": "rsskill",
+  "creator": "ramitsethi",
+  "source_files": 1170,
+  "unique_sources": 857,
+  "modules": {
+    "learning-map": {
+      "matching_sources": 383,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 行为改变与沟通/141229 How to learn anything, with Scott Young - Ramit's Brain Trust.md",
+          "title": "141229 How to learn anything, with Scott Young - Ramit's Brain Trust",
+          "url": "https://www.youtube.com/watch?v=VH0WWyeQQx4",
+          "date": "2014-12-29",
+          "sha256": "0f5fa4269e47334a7a116a0d5b8ffcfb92cd69032101b573a9b903d0dc944a56",
+          "chars": 7704,
+          "excerpt": "ese different areas of business and life was I changed from the outside in I learned that if I could gain 40 pounds and learn how to launch courses and go on TV then what else could I do and that was a real realization for me that there are a lot of things I thought were limits like my genetics but that actually had nothing to do with it at all I just hadn't learned in the right way so today I'm thrilled to introduce my friend Scott young Scott knows a little bit about learning and changing hers"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/250603 Ramit and Cassandra open up- “Our real money fights (and what we learned)”.md",
+          "title": "250603 Ramit and Cassandra open up- “Our real money fights (and what we learned)”",
+          "url": "https://www.youtube.com/watch?v=6paRo1nr-Tw",
+          "date": "2025-06-03",
+          "sha256": "662f6ed7728a6504ef38f9a68bf709e9cb4453e032d597a502cecabbcefaddfd",
+          "chars": 64253,
+          "excerpt": "And learning that is like learning a whole new It's like developing a new pallet."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 个人理财与财富/250821 四周逆转职业生涯……方法如下.md",
+          "title": "250821 四周逆转职业生涯……方法如下",
+          "url": "https://www.youtube.com/watch?v=DHy47LCYXfM",
+          "date": "2025-08-21",
+          "sha256": "28a909fab0fa55fa00b75a24ed87cb06f52daca794227f755a2e087ebfcccddb",
+          "chars": 7029,
+          "excerpt": "如果你曾经搜索过“如何谈判薪资”，结果却跳到一个 2011 年的旧 Reddit 帖子，上面有一群愤世嫉俗的人在说“你永远无法谈判薪资”，那么你就知道我不想从他们那里听取建议。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "roadmap": {
+      "matching_sources": 397,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 个人理财与财富/251025 Get Rich at ANY AGE- The Plan for Your 20s, 30s, 40s & 50s - TWO HOUR MARATHON.md",
+          "title": "251025 Get Rich at ANY AGE- The Plan for Your 20s, 30s, 40s & 50s - TWO HOUR MARATHON",
+          "url": "https://www.youtube.com/watch?v=djI5_cxM1Cs",
+          "date": "2025-10-25",
+          "sha256": "4423919dcb8b67ab532a01c273e25df14b7aa05f9ace9116f6f3a377d4b95e21",
+          "chars": 121346,
+          "excerpt": "The goal here is to build good habits, automate, and get compound interest working for you."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/261013 --We spend 154% of what we make. Will we ever stop drowning--.md",
+          "title": "261013 --We spend 154% of what we make. Will we ever stop drowning--",
+          "url": "https://www.youtube.com/watch?v=AdLLEGiSTkU",
+          "date": "2026-10-13",
+          "sha256": "8ff87ba42202071b88bac693a3325efc8a3e3803c96de621e8e788ae3fbc47ee",
+          "chars": 108303,
+          "excerpt": "Most people say like, \"Oh, I have goals or or we're not living up to our goals or we're not making the right decisions."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/250916 “她在追求财务自由，我想及时行乐。”.md",
+          "title": "250916 “她在追求财务自由，我想及时行乐。”",
+          "url": "https://www.youtube.com/watch?v=S-0ebla5UU4",
+          "date": "2025-09-16",
+          "sha256": "0935e8173faef61bf7a55fff49684ea85c3562e0cf2fb5cd3688fb774efe9215",
+          "chars": 31201,
+          "excerpt": "你听到了像“计划”和“未来”这样的词，你的大脑几乎像是戴上了有色眼镜 >> ，画面变得模糊混乱，你透过这些不同的滤镜去看，于是你听到：“天哪，未来可能涉及第二个孩子。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "rich-life": {
+      "matching_sources": 344,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/260526 我们月入16.7万美元，为何仍感到贫穷.md",
+          "title": "260526 我们月入16.7万美元，为何仍感到贫穷",
+          "url": "https://www.youtube.com/watch?v=mTwAceVLP-g",
+          "date": "2026-05-26",
+          "sha256": "f5d27ed639129acce4032c748051e95f82e27377c08021f5aeef691266a061dd",
+          "chars": 37124,
+          "excerpt": "是的，我认为要做出这样的承诺：作为家庭进行沟通、倾听，写下那些目标，坚持执行，在整个过程中成为彼此的伙伴，互相依靠，>> 嗯，我想只要我和阿曼达以及我的女儿在一起，呃 >> 知道我们今天讨论的内容，嗯，我认为我们的富足生活会不断增长，我们将来也会有那样的机会。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 个人理财与财富/250920 If You’re Broke, This 2-Hour Money MARATHON Will Change Everything.md",
+          "title": "250920 If You’re Broke, This 2-Hour Money MARATHON Will Change Everything",
+          "url": "https://www.youtube.com/watch?v=sDRZd-kR3KY",
+          "date": "2025-09-20",
+          "sha256": "f8c6371f80b2ab5926941e7acb3387f4bc96bd60673d0965453ae17021f7c005",
+          "chars": 144631,
+          "excerpt": "Just cuz you twirl around three times and say rich life, rich life, doesn't mean you can afford it."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/260804 我们跨东西海岸拥有两套房，固定开支压得喘不过气.md",
+          "title": "260804 我们跨东西海岸拥有两套房，固定开支压得喘不过气",
+          "url": "https://www.youtube.com/watch?v=EAKHqZkJRUM",
+          "date": "2026-08-04",
+          "sha256": "e5964301af75861440419db1b8f04effe69c143ff0abfb89cc33d465bc0cd42c",
+          "chars": 41280,
+          "excerpt": "《我要教你变富有》（I Will Teach You To Be Rich）的拉米特·塞西（Ramit Sethi）与妮可（Nicole）和德鲁（Drew）对话。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "spending": {
+      "matching_sources": 364,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/261013 --We spend 154% of what we make. Will we ever stop drowning--.md",
+          "title": "261013 --We spend 154% of what we make. Will we ever stop drowning--",
+          "url": "https://www.youtube.com/watch?v=AdLLEGiSTkU",
+          "date": "2026-10-13",
+          "sha256": "8ff87ba42202071b88bac693a3325efc8a3e3803c96de621e8e788ae3fbc47ee",
+          "chars": 108303,
+          "excerpt": "I'm hearing like, \"Well, you know, we spend a lot of time apart, so we need to spend some time together."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 个人理财与财富/250920 If You’re Broke, This 2-Hour Money MARATHON Will Change Everything.md",
+          "title": "250920 If You’re Broke, This 2-Hour Money MARATHON Will Change Everything",
+          "url": "https://www.youtube.com/watch?v=sDRZd-kR3KY",
+          "date": "2025-09-20",
+          "sha256": "f8c6371f80b2ab5926941e7acb3387f4bc96bd60673d0965453ae17021f7c005",
+          "chars": 144631,
+          "excerpt": "I wonder what I typically find with people who spend hours talking about inflation is that number one, they're spending too much money."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/251028 “My husband gives me an allowance. I feel like a child.”.md",
+          "title": "251028 “My husband gives me an allowance. I feel like a child.”",
+          "url": "https://www.youtube.com/watch?v=9mWTCuU62yI",
+          "date": "2025-10-28",
+          "sha256": "afb955c459e5247671e19e251bdbdb7ebcb143f206c1bc3709d22a391801ceb5",
+          "chars": 85790,
+          "excerpt": "I don't have access I mean I can have access to the money if I wanted to spend it but I would never do that without making sure he was okay with it because I do respect him in that way where I'm not going to just spend money he said we can't we can't spend."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "money-system": {
+      "matching_sources": 332,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 个人理财与财富/251025 Get Rich at ANY AGE- The Plan for Your 20s, 30s, 40s & 50s - TWO HOUR MARATHON.md",
+          "title": "251025 Get Rich at ANY AGE- The Plan for Your 20s, 30s, 40s & 50s - TWO HOUR MARATHON",
+          "url": "https://www.youtube.com/watch?v=djI5_cxM1Cs",
+          "date": "2025-10-25",
+          "sha256": "4423919dcb8b67ab532a01c273e25df14b7aa05f9ace9116f6f3a377d4b95e21",
+          "chars": 121346,
+          "excerpt": "If you want to know how to automate everything down to what day to automate it, get chapter 5 of my book, I will teach you to be rich."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/260106 我们的婚姻咨询师都搞不定，求帮忙.md",
+          "title": "260106 我们的婚姻咨询师都搞不定，求帮忙",
+          "url": "https://www.youtube.com/watch?v=kKxqmmFz_zE",
+          "date": "2026-01-06",
+          "sha256": "5154ef31363951bf3e1f22b71e966a2bda8faedb1aa79c9c671f774d3e7b40ee",
+          "chars": 33361,
+          "excerpt": "Chris，我还没有深入调查账户上的通知设置，自动通知是谁接收的，但他住在东海岸，最近他来我们要州拜访了一些客户，包括 Chris 的父母，Chris 知道他要来城里。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/251216 他辞职并取出了401(k)账户，没有告诉我.md",
+          "title": "251216 他辞职并取出了401(k)账户，没有告诉我",
+          "url": "https://www.youtube.com/watch?v=46apkFIqq94",
+          "date": "2025-12-16",
+          "sha256": "c21bc3e1c6ad22d33eabd2865005b9a9828541cf463280ba8c347b2344cb4c84",
+          "chars": 36958,
+          "excerpt": "你可以为伴侣在新工作中压力更小、更有成就感而感到高兴，但同时你也可以对他辞去全职工作、兑现 401(k) 退休金账户且不与作为财务伙伴的妻子商量感到愤怒、怨恨、惊讶或震惊。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "money-talks": {
+      "matching_sources": 279,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/230829 “He’s not ready for marriage. So why did we buy a house together-”.md",
+          "title": "230829 “He’s not ready for marriage. So why did we buy a house together-”",
+          "url": "https://www.youtube.com/watch?v=p_ZqTjVM0C0",
+          "date": "2023-08-29",
+          "sha256": "3e8290f6ebc401b1d2cae5c71665818c3f27c88f415865ce84bd29270c75c6e9",
+          "chars": 60532,
+          "excerpt": "I felt that  marriage was going to come and that's also why I bought the house because I envisioned we would be getting married."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 个人理财与财富/240222 夫妻财务成功的秘诀.md",
+          "title": "240222 夫妻财务成功的秘诀",
+          "url": "https://www.youtube.com/watch?v=3s7EeUdyX1s",
+          "date": "2024-02-22",
+          "sha256": "ac1ef12b0d2ff9952cba598336152e2990a1adf750ad2844abdc647c86585c97",
+          "chars": 6345,
+          "excerpt": "我可以告诉你，关键不在于攻击你的伴侣，说“你在 Target 花太多了”，也不在于不断试图阻止伴侣做某事——当你这样做时，你会引发所谓的“逆反心理”（reactance）。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 伴侣金钱与真实案例/241015 如何与伴侣在金钱问题上达成共识.md",
+          "title": "241015 如何与伴侣在金钱问题上达成共识",
+          "url": "https://www.youtube.com/watch?v=m9hf_kyBGPY",
+          "date": "2024-10-15",
+          "sha256": "2525b16ab6d67f98b5a7950a1cffa5245287448c671c4f63e8bf45463078a7e5",
+          "chars": 19897,
+          "excerpt": "《我要富起来》（I Will Teach You To Be Rich）的作者拉米特·塞西（Ramit Sethi）在西雅图的一场现场活动中与两对夫妇进行了对话。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "career": {
+      "matching_sources": 192,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 个人理财与财富/240404 像专业人士一样谈判薪资，获得更多收入.md",
+          "title": "240404 像专业人士一样谈判薪资，获得更多收入",
+          "url": "https://www.youtube.com/watch?v=KOr3sbYPAW4",
+          "date": "2024-04-04",
+          "sha256": "1537fadf0ca4a3c69fef9926a36769a8795af24a3ab2deda6c5d564e399ee752",
+          "chars": 5086,
+          "excerpt": "对于那些即将留言说“这太不切实际了”、“我无法获得 65,000 美元的加薪”、“Rid Sati，你太脱离现实了”的 3,000 万人来说：获得 6,000 美元的加薪难道不好吗？"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录03 职业薪资与自由职业/090514 拉米特·塞西在ABC新闻《金钱问题》节目中谈薪资谈判.md",
+          "title": "090514 拉米特·塞西在ABC新闻《金钱问题》节目中谈薪资谈判",
+          "url": "https://www.youtube.com/watch?v=gljHlbBBdlA",
+          "date": "2009-05-14",
+          "sha256": "ae891b5aa53125485fcc14bf248db0bcfb186920926ba79ebf709891fcbaa327",
+          "chars": 2758,
+          "excerpt": "《I Will Teach You to Be Rich》（中文译名：《我要富裕起来》）的作者、I Will Teach You to Be Rich 网站的创始人兼撰稿人拉米特·塞西（Ramit Sethi）将为我们讲解谈判的基础知识，助你获得应有的薪资。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 个人理财与财富/250904 Stuck at 40- Here’s the Career Pivot Plan to Build Wealth.md",
+          "title": "250904 Stuck at 40- Here’s the Career Pivot Plan to Build Wealth",
+          "url": "https://www.youtube.com/watch?v=3U0dPcG0_go",
+          "date": "2025-09-04",
+          "sha256": "6cda78e2499fa027c2e96e9fa1b8b4a378ce5fb4981dba2b33417da16656a73e",
+          "chars": 18625,
+          "excerpt": "Everything you've done in your career up until this point can help you, even if you are looking to pivot to a totally different career."
+        }
+      ],
+      "status": "source_supported"
+    }
+  },
+  "policy": "One source per video ID/article URL; complete Chinese preferred, English fallback; speakers require verification.",
+  "gaps": [
+    "Automatic topic matches are a navigation aid, not proof of a doctrine.",
+    "Interview speaker attribution must be verified before quoting a named person.",
+    "Initial library contains bounded source excerpts, not AI-distilled conclusions."
+  ]
+}

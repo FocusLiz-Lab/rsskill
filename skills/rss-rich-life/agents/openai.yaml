@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ramit Sethi · 富足生活设计"
+  short_description: "Build a 富足生活设计 using expert methodology"
+  default_prompt: "Use $rss-rich-life to build a practical 富足生活设计 for my situation."

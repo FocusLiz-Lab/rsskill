@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ramit Sethi · 支出结构与消费取舍"
+  short_description: "Build a 支出结构与消费取舍 using expert methodology"
+  default_prompt: "Use $rss-spending to build a practical 支出结构与消费取舍 for my situation."

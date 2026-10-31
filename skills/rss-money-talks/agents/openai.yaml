@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ramit Sethi · 伴侣金钱沟通"
+  short_description: "Build a 伴侣金钱沟通 using expert methodology"
+  default_prompt: "Use $rss-money-talks to build a practical 伴侣金钱沟通 for my situation."
